@@ -848,6 +848,18 @@ select {
   background-image: url('../img/yosemite.jpg');
 }
 
+.bg-LA {
+  background-image: url('../img/LA.jpg');
+}
+
+.bg-miami {
+  background-image: url('../img/miami.jpg');
+}
+
+.bg-bali {
+  background-image: url('../img/bali.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
@@ -913,6 +925,11 @@ select {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
 
 .font-bold {
